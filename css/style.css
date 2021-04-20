@@ -1,11 +1,9 @@
-
-*{
-    background-color:rgba(4, 88, 60, 0.555);
-   
-    font-size:15px;
-
-h1{
-    color: rebeccapurple;
-    font-family: 'comic';
-
-}
+    * {
+        background-color: rgba(4, 88, 60, 0.555);
+        font-size: 15px;
+    }
+    
+    h1 {
+        color: rebeccapurple;
+        font-family: 'comic';
+    }
